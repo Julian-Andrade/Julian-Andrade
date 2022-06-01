@@ -1,4 +1,4 @@
-<h2 align="center"> Olá, eu sou o Julian Andrade <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width=30px></h2>
+<h2 align="center"> Olá, eu sou o Julian Andrade </h2>
 
 - 🔥 Desenvolvedor Frontend Junior
 - 📚 Esp. Engenheiro Civil e atualmente estudante de Análise e Desenvolvimento de Software
