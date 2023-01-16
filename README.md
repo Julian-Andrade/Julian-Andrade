@@ -1,4 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julian-andrade&layout=default&theme=dracula&border_color=0d1116&card_width=450&bg_color=0d1116&title_color=a8fdf5"/>
 <h2 align="left">Olá, sou o Julian Andrade :love_you_gesture:</h2>
 
 
